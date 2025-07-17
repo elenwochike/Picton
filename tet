@@ -1,0 +1,96 @@
+        <div className='flex flex-row bg-[#f5efea] w-full justify-between items-center p-16 py-20'>
+          <div className='flex flex-col w-[40%] gap-12'>
+            <div className='flex flex-col gap-4'>
+              <p>We create everything that;</p>
+              <p className='font-michroma text-5xl'>Brings Life to your Space</p>
+            </div>
+            <div className='flex flex-col gap-2'>
+
+              <div className='flex flex-row gap-1'>
+                <img src="https://qdioerqypevvqctowrbv.supabase.co/storage/v1/object/public/picton//lamp.svg" alt="" />
+                <p>Interior Design</p>
+              </div>
+              <div className='flex flex-row gap-1'>
+                <img src="https://qdioerqypevvqctowrbv.supabase.co/storage/v1/object/public/picton//lamp.svg" alt="" />
+                <p>Interior Design</p>
+              </div>
+              <div className='flex flex-row gap-1'>
+                <img src="https://qdioerqypevvqctowrbv.supabase.co/storage/v1/object/public/picton//lamp.svg" alt="" />
+                <p>Interior Design</p>
+              </div>
+              <div className='flex flex-row gap-1'>
+                <img src="https://qdioerqypevvqctowrbv.supabase.co/storage/v1/object/public/picton//lamp.svg" alt="" />
+                <p>Interior Design</p>
+              </div>
+              <div className='flex flex-row gap-1'>
+                <img src="https://qdioerqypevvqctowrbv.supabase.co/storage/v1/object/public/picton//lamp.svg" alt="" />
+                <p>Interior Design</p>
+              </div>
+
+            </div>
+          </div>
+
+          <img className='w-[54%]' src="https://qdioerqypevvqctowrbv.supabase.co/storage/v1/object/public/picton//Bringsimg.png" alt="" />
+
+        </div>
+
+        <div className='flex flex-col bg-white w-full justify-center items-center p-8 py-20 gap-20'>
+          <div className='flex flex-col justify-center items-center  gap-2'>
+            <p>We create everything that;</p>
+            <p className='font-michroma text-5xl'>Brings Life to your Space</p>
+          </div>
+
+          <div className='flex flex-row w-full justify-center items-center gap-8'>
+            <span></span>
+            <div className='flex w-[75%] gap-8'>
+              <div className='flex flex-row w-full justify-between'>
+                <div className='flex flex-col w-[30%] items-center gap-2'>
+                  <img src="https://qdioerqypevvqctowrbv.supabase.co/storage/v1/object/public/picton//L&PBed.png" alt="" />
+                  <p>Bedroom Furniture</p>
+                </div>
+
+                <div className='flex flex-col w-[30%] items-center gap-2'>
+                  <img src="https://qdioerqypevvqctowrbv.supabase.co/storage/v1/object/public/picton//L&PChair1.png" alt="" />
+                  <p>Accent Chairs</p>
+                </div>
+
+                <div className='flex flex-col w-[30%] items-center gap-2'>
+                  <img src="https://qdioerqypevvqctowrbv.supabase.co/storage/v1/object/public/picton//L&PTable.png" alt="" />
+                  <p>Lounge Furniture</p>
+                </div>
+              </div>
+            </div>
+            <span></span>
+          </div>
+        </div>
+
+        <div className='flex flex-row bg-[#f5efea] w-full justify-between items-center p-16 py-20'>
+          <div className='flex flex-col w-[40%] gap-8'>
+            <div className='flex flex-col gap-4'>
+              <p>Impecable</p>
+              <p className='font-michroma text-5xl'>Craftsmanship</p>
+            </div>
+
+            <div className='flex flex-col-reverse gap-6'>
+                <img className='w-20' src="https://qdioerqypevvqctowrbv.supabase.co/storage/v1/object/public/picton//CraftCompass.svg" alt="" />
+                <p>All Picton pieces are crafted by the best, Our true strength lies in our skilled artisans, who pour their heart and heritage into every piece.</p>
+              </div>
+          </div>
+
+          <img className='w-[54%]' src="https://qdioerqypevvqctowrbv.supabase.co/storage/v1/object/public/picton//Homecraftsmanship.png" alt="" />
+        </div>
+
+        <div className='flex flex-row w-full h-134'>
+          <div className="w-[25%] bg-[url('https://qdioerqypevvqctowrbv.supabase.co/storage/v1/object/public/picton//H&D1.png')] bg-cover bg-center "></div>
+          <div className='flex flex-col justify-between w-[50%]'>
+            <div className='flex flex-col p-18 gap-10'>
+              <div className='flex flex-col gap-4'>
+                <p className='text-white'>Raising the standards in</p>
+                <p className='font-michroma text-5xl text-white'>Home Decor<br></br>& Design</p>
+              </div>
+              <Link className='text-white'>Explore Our Services</Link>
+            </div>
+            <img src="https://qdioerqypevvqctowrbv.supabase.co/storage/v1/object/public/picton//H&D2.png" alt="" />
+          </div>
+          <div className="w-[25%] bg-[url('https://qdioerqypevvqctowrbv.supabase.co/storage/v1/object/public/picton//H&D3.png')] bg-cover bg-center "></div>
+        </div>
