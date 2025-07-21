@@ -4,7 +4,7 @@ import Footer from '../components/Footer';
 
 function OurStory() {
   return (
-    <div>
+    <div className='bg-[#191919]'>
       <Header />
 
       <div id='pagename' className="p-16 py-12 md:py-16 text-center bg-white max-w-full bg-[url('https://qdioerqypevvqctowrbv.supabase.co/storage/v1/object/public/picton//white%20pattern.png')] bg-[length:100vw]"> 

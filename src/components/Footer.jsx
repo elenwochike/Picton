@@ -11,11 +11,11 @@ const Footer = () => {
               <div className='flex flex-col md:flex-row gap-6 md:gap-2'>
                 <div className='flex flex-row gap-2'>
                   <img src="https://qdioerqypevvqctowrbv.supabase.co/storage/v1/object/public/picton//Footer%20phone.svg" alt="" />
-                  <p className='font-[Open_Sans]'>+234 8033071258</p>
+                  <p className='font-[Open_Sans]'>08033071258</p>
                 </div>
                 <div className='flex flex-row gap-2'>
                   <img src="https://qdioerqypevvqctowrbv.supabase.co/storage/v1/object/public/picton//Footer%20phone.svg" alt="" />
-                  <p className='font-[Open_Sans]'>+234 8033071258</p>
+                  <p className='font-[Open_Sans]'>08187677129</p>
                 </div>
               </div>
 
