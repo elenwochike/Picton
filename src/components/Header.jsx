@@ -34,7 +34,7 @@ const Header = () => {
       <Link to="/">
           <img
           className="w-28 md:w-30"
-          src="https://qdioerqypevvqctowrbv.storage.supabase.co/v1/object/public/picton//Logo.svg"
+          src="https://qdioerqypevvqctowrbv.supabase.co/storage/v1/object/public/picton//Logo.svg"
           alt="Picton Logo"
         />
       </Link>
