@@ -10,14 +10,14 @@ function OurServices() {
       <Header />
       <div id='pagename' className="p-16 py-12 md:py-16 text-center bg-white max-w-full bg-[url('https://qdioerqypevvqctowrbv.supabase.co/storage/v1/object/public/picton//white%20pattern.png')] bg-[length:100vw]"> 
         <p className="font-michroma text-4xl leading-12">Our Services</p>
-        <p className="mt-4">Interior design | Custom wood work | Measurement & consultation | 3D Mockups & visualisations | Installation | Restoration & Refurbishment.</p>
+        <p className="mt-4">Interior design | Custom wood work | Measurement & consultation | 3D visualisations | Installation | Electrical wirings and fittings | Restoration & Refurbishment.</p>
       </div>
 
       <div id='sideByside' className='flex flex-col-reverse md:flex-row bg-[#f5efea] w-full justify-between items-center p-6 md:p-16 py-10 md:py-20 gap-8 md:gap-0 pb-20'>
                 <div className='flex flex-col md:w-[40%] gap-8 md:gap-12'>
                     <div className='flex flex-col gap-4 md:gap-2 md:gap-4'>
                         <p className='font-michroma text-3xl md:text-4xl leading-12'>Interior Design</p>
-                        <p>We offer a broad range of interior design services. Our expertise covers all range of services required to bring your dream home to life.</p>
+                        <p>We offer a full spectrum of interior design services, from comprehensive design and expert consultancy to seamless turnkey installations  all tailored to transform your vision into the home of your dreams.</p>
                     </div>
                     <div className='flex flex-col gap-4 md:gap-2'>
                         <div className='flex flex-col md:flex-row w-full md:w-[80%] gap-4 md:gap-12'>
