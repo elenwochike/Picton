@@ -110,7 +110,7 @@ function OurServices() {
       <div id='sideByside' className='flex flex-col-reverse md:flex-row text-white w-full justify-between items-center p-6 md:p-16 py-10 md:py-16 gap-8 md:gap-0 pb-20 '>
           <div className='flex flex-col w-full md:w-[40%] gap-12'>
             <div className='flex flex-col gap-4'>
-              <p className='font-michroma text-4xl leading-12'>3D Mockups <br></br>& Visualizations</p>
+              <p className='font-michroma text-4xl leading-12'>3D Visualizations</p>
               <p>To ensure complete satisfaction, we create detailed mockups and prototypes, allowing you to visualise the finally product and make any necessary adjustments before production.</p>
             </div>
             <div className='flex flex-col gap-4 md:gap-2'>

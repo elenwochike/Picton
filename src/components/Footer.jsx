@@ -27,7 +27,7 @@ const Footer = () => {
               </div>
 
               <div className='flex flex-row gap-2 items-start'>
-                <img src="https://qdioerqypevvqctowrbv.supabase.co/storage/v1/object/public/picton//Footer%20door-open.svg" alt="" />
+                <img src="https://qdioerqypevvqctowrbv.supabase.co/storage/v1/object/public/picton//Footer%20envelope.svg" alt="" />
                 <p>pictonhomeanddesign@gmail.com </p>
               </div>
 

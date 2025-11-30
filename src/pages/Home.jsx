@@ -329,7 +329,7 @@ const scrollLeft = (ref) => {
 
         </motion.div>
 
-        <div className='flex flex-col md:flex-row bg-[#f5efea] w-full justify-between items-center p-6 md:p-16 py-20 md:py-20 gap-12 md:gap-0'>
+        <div className='flex flex-col md:flex-row bg-[#f5efea] w-full justify-between items-center p-6 md:p-16 py-20 md:py-20 gap-12 md:gap-8'>
           <div className='flex flex-col w-full md:w-[40%] gap-4 md:gap-8'>
             <div className='flex flex-col gap-2 md:gap-4'>
               <p>FAQ's</p>
@@ -340,7 +340,7 @@ const scrollLeft = (ref) => {
               </div>
           </div>
 
-          <div className='flex flex-col bg-white md:w-[54%] p-4 md:p-12 py-8 md:py-12 rounded-xl gap-6'>
+          <div className='flex flex-col bg-white w-full lg:w-[54%] p-4 lg:p-12 py-6 lg:py-12 rounded-xl gap-6'>
             <div onClick={() => handleFaqToggle(1)}  className={`flex flex-row justify-between items-center border-b-1 border-amber-100 pb-1  cursor-pointer hover:border-amber-500 ${openFaq === 1 ? 'border-none' : ''}`}>
               <div className='flex flex-row gap-2'>
                 <img src="https://qdioerqypevvqctowrbv.supabase.co/storage/v1/object/public/picton//comment-dots.svg" alt="" />
