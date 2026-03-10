@@ -15,9 +15,9 @@ function OurServices() {
 
       <div id='sideByside' className='flex flex-col-reverse md:flex-row bg-[#f5efea] w-full justify-between items-center p-6 md:p-16 py-10 md:py-20 gap-8 md:gap-0 pb-20'>
                 <div className='flex flex-col md:w-[40%] gap-8 md:gap-12'>
-                    <div className='flex flex-col gap-4 md:gap-2 md:gap-4'>
+                    <div className='flex flex-col gap-4 md:gap-4'>
                         <p className='font-michroma text-3xl md:text-4xl leading-12'>Interior Design</p>
-                        <p>We offer a full spectrum of interior design services, from comprehensive design and expert consultancy to seamless turnkey installations  all tailored to transform your vision into the home of your dreams.</p>
+                        <p>We transform spaces with thoughtful, functional, and aesthetic design solutions. From concept to completion, our team curates layouts, materials, colours, and décor that reflect your lifestyle and elevate your environment.</p>
                     </div>
                     <div className='flex flex-col gap-4 md:gap-2'>
                         <div className='flex flex-col md:flex-row w-full md:w-[80%] gap-4 md:gap-12'>
@@ -54,14 +54,10 @@ function OurServices() {
           <div className='flex flex-col w-full md:w-[40%] gap-12'>
             <div className='flex flex-col gap-4'>
               <p className='font-michroma text-4xl leading-12'>Custom <br></br> Woodwork & Joinery</p>
-              <p>We specialize in intricate wood work and furniture creation.</p>
+              <p>We craft bespoke wooden pieces including cabinetry, wardrobes, paneling, shelving, and architectural details, tailored to your space.</p>
             </div>
             <div className='flex flex-col gap-4 md:gap-2'>
 
-              <div className='flex flex-row gap-1'>
-                <img src="https://qdioerqypevvqctowrbv.supabase.co/storage/v1/object/public/picton//lamp.svg" alt="" />
-                <p>Custom cabinetry</p>
-              </div>
               <div className='flex flex-row gap-1'>
                 <img src="https://qdioerqypevvqctowrbv.supabase.co/storage/v1/object/public/picton//seedling.svg" alt="" />
                 <p>Paneling</p>
@@ -78,14 +74,14 @@ function OurServices() {
             </div>
           </div>
 
-          <img className='w-full md:w-[54%]' src="https://qdioerqypevvqctowrbv.supabase.co/storage/v1/object/public/picton/OS2.png" alt="" />
+          <img className='w-full md:w-[54%]' src="https://qdioerqypevvqctowrbv.supabase.co/storage/v1/object/public/picton/OS2a.png" alt="" />
       </div>
       
       <div id='sideByside' className='flex flex-col-reverse md:flex-row bg-[#f5efea] w-full justify-between items-center p-6 md:p-16 py-10 md:py-20 gap-8 md:gap-0 pb-20'>
           <div className='flex flex-col w-full md:w-[40%] gap-12'>
             <div className='flex flex-col gap-4'>
               <p className='font-michroma text-4xl leading-12'>Detailed Measurement & Consultation</p>
-              <p>We begin by taking detailed measurements of your space and offering expert design consultation to understand your needs.</p>
+              <p>Our team takes accurate on-site measurements and provides expert consultation to ensure your project starts on the right foundation. </p>
             </div>
             <div className='flex flex-col gap-4 md:gap-2'>
 
@@ -107,11 +103,34 @@ function OurServices() {
           <img className='w-full md:w-[54%]' src="https://qdioerqypevvqctowrbv.supabase.co/storage/v1/object/public/picton/OS3.png" alt="" />
       </div>
 
+      <div id='sideByside' className='flex flex-col-reverse md:flex-row bg-white w-full justify-between items-center p-6 md:p-16 py-10 md:py-20 gap-8 md:gap-0 pb-20'>
+          <div className='flex flex-col w-full md:w-[40%] gap-12'>
+            <div className='flex flex-col gap-4'>
+              <p className='font-michroma text-4xl leading-12'>Electrical wirings <br></br> & fittings</p>
+              <p>We provide safe, professional electrical installations for lighting, fittings, and integrated furniture components. Every wiring solution is done to standard, ensuring function and safety.</p>
+            </div>
+            <div className='flex flex-col gap-4 md:gap-2'>
+
+              <div className='flex flex-row gap-1'>
+                <img src="https://qdioerqypevvqctowrbv.supabase.co/storage/v1/object/public/picton//lamp.svg" alt="" />
+                <p>Electrical wirings</p>
+              </div>
+              <div className='flex flex-row gap-1'>
+                <img src="https://qdioerqypevvqctowrbv.supabase.co/storage/v1/object/public/picton//air-conditioner.svg" alt="" />
+                <p>Electrical fittings</p>
+              </div>
+
+            </div>
+          </div>
+
+          <img className='w-full md:w-[54%]' src="https://qdioerqypevvqctowrbv.supabase.co/storage/v1/object/public/picton/OS7.png" alt="" />
+      </div>
+
       <div id='sideByside' className='flex flex-col-reverse md:flex-row text-white w-full justify-between items-center p-6 md:p-16 py-10 md:py-16 gap-8 md:gap-0 pb-20 '>
           <div className='flex flex-col w-full md:w-[40%] gap-12'>
             <div className='flex flex-col gap-4'>
               <p className='font-michroma text-4xl leading-12'>3D Visualizations</p>
-              <p>To ensure complete satisfaction, we create detailed mockups and prototypes, allowing you to visualise the finally product and make any necessary adjustments before production.</p>
+              <p>We create realistic 3D designs that show exactly how your space will look before production begins. This allows you to approve layouts, finishes, and furniture details with full clarity and confidence.</p>
             </div>
             <div className='flex flex-col gap-4 md:gap-2'>
 
@@ -133,13 +152,13 @@ function OurServices() {
           <div className='flex flex-col w-full md:w-[40%] gap-12'>
             <div className='flex flex-col gap-4'>
               <p className='font-michroma text-4xl leading-12'>Professional Installation Services</p>
-              <p>Our experienced installation team ensures the seamless and efficient setup of all furniture and decor elements, guaranteeing a perfect finish and your complete satisfaction.</p>
+              <p>Our expert installation team handles the delivery and setup of all furniture, fittings, and décor elements. We ensure everything is aligned, secure, and finished to perfection.</p>
             </div>
             <div className='flex flex-col gap-4 md:gap-2'>
 
               <div className='flex flex-row gap-1'>
                 <img src="https://qdioerqypevvqctowrbv.supabase.co/storage/v1/object/public/picton//lamp.svg" alt="" />
-                <p>Furniture installationt</p>
+                <p>Furniture installation</p>
               </div>
               <div className='flex flex-row gap-1'>
                 <img src="https://qdioerqypevvqctowrbv.supabase.co/storage/v1/object/public/picton//ruler-combined.svg" alt="" />
@@ -155,7 +174,7 @@ function OurServices() {
           <div className='flex flex-col w-full md:w-[40%] gap-12'>
             <div className='flex flex-col gap-4'>
               <p className='font-michroma text-4xl leading-12'>Furniture Restoration & Refurbishment</p>
-              <p>We offer expert services to restore and refurbish your existing wooden furniture, breathing new life into cherished pieces and ensuring their longevity.</p>
+              <p>We restore and upgrade existing wooden furniture, repairing wear, refreshing finishes, and enhancing durability. giving beloved pieces a renewed look and longer life.</p>
             </div>
             <div className='flex flex-col gap-4 md:gap-2'>
 

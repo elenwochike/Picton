@@ -89,8 +89,8 @@ const scrollLeft = (ref) => {
                 visible: { opacity: 1, y: 0, transition: { duration: 0.5, ease: 'easeOut' } },
               }}
             >
-              <p>We create everything that;</p>
-              <p className='font-michroma text-4xl'>Brings Life to your Space</p>
+              
+              <p className='font-michroma text-4xl'>We Bring Life to your Space</p>
             </motion.div>
             <motion.div
               className='flex flex-col gap-2'
@@ -100,7 +100,7 @@ const scrollLeft = (ref) => {
               }}
             >
               <div className='flex flex-row gap-1'>
-                <img src="https://qdioerqypevvqctowrbv.supabase.co/storage/v1/object/public/picton//lamp.svg" alt="" />
+                <img src="https://qdioerqypevvqctowrbv.supabase.co/storage/v1/object/public/picton//Interior.svg" alt="" />
                 <p>Interior Design</p>
               </div>
               <div className='flex flex-row gap-1'>
@@ -113,11 +113,15 @@ const scrollLeft = (ref) => {
               </div>
               <div className='flex flex-row gap-1'>
                 <img src="https://qdioerqypevvqctowrbv.supabase.co/storage/v1/object/public/picton//cube.svg" alt="" />
-                <p>3D Mockups and visualisations</p>
+                <p>3D visualisations</p>
               </div>
               <div className='flex flex-row gap-1'>
                 <img src="https://qdioerqypevvqctowrbv.supabase.co/storage/v1/object/public/picton//air-conditioner.svg" alt="" />
                 <p>Professional installation services</p>
+              </div>
+              <div className='flex flex-row gap-1'>
+                <img src="https://qdioerqypevvqctowrbv.supabase.co/storage/v1/object/public/picton//lamp.svg" alt="" />
+                <p>Electrical wiring & fittings</p>
               </div>
               <div className='flex flex-row gap-1'>
                 <img src="https://qdioerqypevvqctowrbv.supabase.co/storage/v1/object/public/picton//chair.svg" alt="" />
@@ -152,7 +156,7 @@ const scrollLeft = (ref) => {
             }}
           >
             <p>All Picton pieces are crafted with</p>
-            <p className='font-michroma text-4xl text-center md:text-left'>Love and pecision</p>
+            <p className='font-michroma text-4xl text-center md:text-left'>Love and precision</p>
           </motion.div>
 
           <motion.div
@@ -321,8 +325,8 @@ const scrollLeft = (ref) => {
             </motion.div>
               
             <motion.div className='flex flex-col w-full md:w-[25%] items-center gap-4' variants={{ hidden: { opacity: 0, y: 50 }, visible: { opacity: 1, y: 0, transition: { duration: 0.6, ease: 'easeOut' } } }}>
-              <img className='w-18' src="https://qdioerqypevvqctowrbv.supabase.co/storage/v1/object/public/picton//GreenSeedling.svg" alt="Sustainability icon" />
-              <p className='text-xl'>Sustainability</p>
+              <img className='w-18' src="https://qdioerqypevvqctowrbv.supabase.co/storage/v1/object/public/picton//Customer-centric.svg" alt="Customer-centric icon" />
+              <p className='text-xl'>Customer-centric</p>
             </motion.div>
 
           </motion.div>
