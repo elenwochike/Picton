@@ -27,6 +27,18 @@ const Footer = () => {
 
               </div>
 
+              <div className='flex flex-col md:flex-row gap-6 md:gap-2'>
+
+                <a href="https://www.instagram.com/picton.ltd" target="_blank" rel="noopener noreferrer"
+                    className="flex flex-row gap-1 items-center cursor-pointer hover:opacity-80 transition">
+                    <img src="https://qdioerqypevvqctowrbv.supabase.co/storage/v1/object/public/picton/instagram.svg" alt="WhatsApp"/>
+                    <p className="font-[Open_Sans]">@picton.ltd</p>
+                </a>
+
+              </div>
+
+              
+ 
               <div className='flex flex-row gap-2 items-start'>
                 <img src="https://qdioerqypevvqctowrbv.supabase.co/storage/v1/object/public/picton//Footer%20envelope.svg" alt="" />
                 <p>info@pictonhomes.ng </p>
