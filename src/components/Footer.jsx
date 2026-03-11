@@ -40,17 +40,11 @@ const Footer = () => {
                     <p className="font-[Open_Sans]">@picton.ltd</p>
                 </a>
 
-              </div>
-
-              
+              </div>     
  
               <div className='flex flex-row gap-2 items-start'>
                 <img src="https://qdioerqypevvqctowrbv.supabase.co/storage/v1/object/public/picton//Footer%20envelope.svg" alt="" />
                 <p>info@pictonhomes.ng </p>
-              </div>
-              <div className='flex flex-row gap-2 items-start'>
-                <img src="https://qdioerqypevvqctowrbv.supabase.co/storage/v1/object/public/picton//Footer%20envelope.svg" alt="" />
-                <p>pictonhomeanddesign@gmail.com </p>
               </div>
 
               <div className='flex flex-row gap-2 items-start'>
